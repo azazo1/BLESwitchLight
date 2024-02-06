@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BLESwitchLight</string>
+    <string name="ble_not_support">您的设备不支持BLE</string>
+    <string name="connected">已连接\n</string>
+    <string name="disconnected">未连接</string>
+    <string name="rotation_off">关灯角度系数</string>
+    <string name="rotation_on">开灯角度系数</string>
+    <string name="rotation_plain">待机角度系数</string>
+    <string name="modify_sg90_rotation">修改舵机角度系数</string>
+    <string name="preview">预览角度系数</string>
+    <string name="apply">应用</string>
+</resources>
